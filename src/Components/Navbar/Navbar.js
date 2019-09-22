@@ -5,7 +5,7 @@ export default function Navbar(props) {
   return (
     <ul className="navbar">
       <li>
-        <h2 className="title"> React Game </h2>
+        <h2 className="title"> React Emoji Game App </h2>
       </li>
       <li>
         <h1 className="developer"> Developed by Saurabh </h1>
